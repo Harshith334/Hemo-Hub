@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "373788235173",
+    "project_id": "hemo-hub",
+    "storage_bucket": "hemo-hub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373788235173:android:17dbb3554f7f9e64b5844c",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzR0ts2M0r6pli31CL5IYXtrbC-vBzU4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
